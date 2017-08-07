@@ -11,7 +11,7 @@ Applications for Fab Academy 2018 will open 1 september 2017.
 
 Starting in February 2018 6-8 admitted Oslo students will be able to participate in an international course in how to make almost anything using digital fabrication techniques such as 3D printing, CNC-milling, laser cutting, moulding and casting, composites etc. 
 
-Weekly lectures will be held by video conference by MIT professor [Niel Gershenfeld](https://en.wikipedia.org/wiki/Neil_Gershenfeld) and the Oslo students will have use the brand new [Fellesvekstedet Fab Lab at Seilduksgata](https://www.facebook.com/fellesverkstedet/)
+Weekly lectures will be held by video conference by MIT professor [Niel Gershenfeld](https://en.wikipedia.org/wiki/Neil_Gershenfeld) and the Oslo students will have access to and use the brand new [Fellesvekstedet Fab Lab at Seilduksgata](https://www.facebook.com/fellesverkstedet/)
 
 The course is fast paced with a new concept introduced each week. It is highly adaptable to the students existing skill level and the their own ideas. Already skilled makers will be able to challange themselves and grow and beginners will have great help from studying the examples provided by their previous and current class mates which number in the hundreds each year. 
 
