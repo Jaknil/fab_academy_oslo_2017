@@ -11,7 +11,7 @@ This repo holds material relating to the upcoming [Fab Academy 2018](http://faba
 
 [Interview with a Fab Academy student who made a synthesizer](https://vimeo.com/109169526)
 
-Starting in February 2018 6-8 admitted Oslo students will be able to participate in an international course in how to make almost anything using digital fabrication techniques such as 3D printing, microelectronics design, production and programming, large scale CNC-milling, laser cutting, moulding and casting, composites and more. 
+In february 2018, six to eight Oslo students will be able to participate in an international course in how to make almost anything using digital fabrication techniques such as 3D printing, microelectronics design, production and programming, large scale CNC-milling, laser cutting, moulding and casting, composites and more. 
 
 Weekly lectures will be held by video conference by Boston MIT professor [Niel Gershenfeld](https://en.wikipedia.org/wiki/Neil_Gershenfeld) and the Oslo students will have access to and use the brand new [Fellesvekstedet Fab Lab at Seilduksgata.](https://www.facebook.com/fellesverkstedet/) The local hands on instructor and coordinator for the Oslo group will be [Jakob Nilsson, who took Fab Academy 2017](http://archive.fabacademy.org/archives/2017/fablabverket/students/100/) the Remote Guru will be Ohadino Haad who is Director of Academic Research & Development at [Stratasys](http://www.stratasys.com/)
 
