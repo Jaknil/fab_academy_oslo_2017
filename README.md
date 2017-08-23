@@ -28,4 +28,6 @@ Applications for Fab Academy 2018 in Oslo will open 1 september 2017. A link wil
 [Interview with a Fab Academy student who made a synthesizer](https://vimeo.com/109169526)
 
 [<img src="images/claudia_cnc.jpg">](http://makezine.com/2015/04/30/make-something-big-at-fab-academy/)
+[Makezine article about "Make something Big Week" of Fab Academy 2015 at Fab Lab Tecsup in Lima-Petru](http://makezine.com/2015/04/30/make-something-big-at-fab-academy/)
+
 
