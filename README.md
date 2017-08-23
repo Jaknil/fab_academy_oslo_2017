@@ -1,4 +1,5 @@
 ![Fab Academy Logo](logos/3229392_300x300.jpg)
+
 The international course [Fab Academy 2018](http://fabacademy.org/) will be hosted in Oslo at Fab Lab [Fellesverkstedet](http://www.fellesverkstedet.no/) [(github)](https://github.com/fellesverkstedet) from February to end of July next year. 
 
 Ten students will be able to participate in an international intensive course in "how to make almost anything" using digital fabrication techniques such as 3D printing, microelectronics design, production and programming, large scale CNC-milling, laser cutting, moulding and casting, composites and more. Sounds interesting?
