@@ -26,7 +26,8 @@ Further reading in the [Fab Academy Course handbook](http://docs.academany.org/F
 
 The Fab Academy [tuition fee](http://fabacademy.org/application-form/cost-breakdown-structure/) is comprised by Central Costs and Local Costs. Central Costs are fixed at 2500€ and we are currently investigating if we need to charge more than 2500€ to cover the local costs of hosting Fab Academy in Oslo. We are committed to giving the students a world class level Fab Academy experience and want to make sure we have the resources to do so.
 
-Applications for Fab Academy 2018 in Oslo will open 1 september 2017. A link will appear here!
+Applications for Fab Academy 2018 in Oslo will open 1 september 2017. A link will appear here for you who want to learn how to make almost anything!
 
 
+![Banner](images/banner.png)
 
