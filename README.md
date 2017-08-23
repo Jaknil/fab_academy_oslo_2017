@@ -1,5 +1,13 @@
 ![Fab Academy Logo](logos/3229392_300x300.jpg)
+# What is Fab Academy
+* [Teaser video for Fab Academy 2015](https://vimeo.com/111864398)
+* [Interview with a Fab Academy student who made a home brewing monitor](https://vimeo.com/109169527)
+* [Interview with a Fab Academy student who made a synthesizer](https://vimeo.com/109169526)
+* [<img src="images/claudia_cnc.jpg">](http://makezine.com/2015/04/30/make-something-big-at-fab-academy/)
+ 
+     [Makezine article about "Make something Big Week" of Fab Academy 2015 at Fab Lab Tecsup in Lima-Petru](http://makezine.com/2015/04/30/make-something-big-at-fab-academy/)
 
+# Taking Fab Academy in Oslo 2018
 The international course [Fab Academy 2018](http://fabacademy.org/) will be hosted in Oslo at Fab Lab [Fellesverkstedet](http://www.fellesverkstedet.no/) [(github)](https://github.com/fellesverkstedet) from February to end of July next year. 
 
 Ten students will be able to participate in an international intensive course in "how to make almost anything" using digital fabrication techniques such as 3D printing, microelectronics design, production and programming, large scale CNC-milling, laser cutting, moulding and casting, composites and more. Sounds interesting?
@@ -20,12 +28,5 @@ The Fab Academy [tuition fee](http://fabacademy.org/application-form/cost-breakd
 
 Applications for Fab Academy 2018 in Oslo will open 1 september 2017. A link will appear here!
 
-# More information about Fab Academy
-* [Teaser video for Fab Academy 2015](https://vimeo.com/111864398)
-* [Interview with a Fab Academy student who made a home brewing monitor](https://vimeo.com/109169527)
-* [Interview with a Fab Academy student who made a synthesizer](https://vimeo.com/109169526)
-* [<img src="images/claudia_cnc.jpg">](http://makezine.com/2015/04/30/make-something-big-at-fab-academy/)
- 
-     [Makezine article about "Make something Big Week" of Fab Academy 2015 at Fab Lab Tecsup in Lima-Petru](http://makezine.com/2015/04/30/make-something-big-at-fab-academy/)
 
 
