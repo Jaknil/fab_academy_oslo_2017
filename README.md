@@ -4,12 +4,6 @@ The international course [Fab Academy 2018](http://fabacademy.org/) will be host
 
 Ten students will be able to participate in an international intensive course in "how to make almost anything" using digital fabrication techniques such as 3D printing, microelectronics design, production and programming, large scale CNC-milling, laser cutting, moulding and casting, composites and more. Sounds interesting?
 
-[Teaser video for Fab Academy 2015](https://vimeo.com/111864398)
-
-[Interview with a Fab Academy student who made a home brewing monitor](https://vimeo.com/109169527)
-
-[Interview with a Fab Academy student who made a synthesizer](https://vimeo.com/109169526)
-
 Weekly lectures will be held by video conference by professor [Niel Gershenfeld](https://en.wikipedia.org/wiki/Neil_Gershenfeld) who initiated the Fab Lab network as part of an outreach program at Bostons MIT. 
 The students will have access to Fab Lab [Fellesvekstedet.](https://www.facebook.com/fellesverkstedet/) The whole lab is right now in the process of moving into a freshly renovated building and the new doors are planned to open just before the course starts, but if there are any delays we will make sure this does not impact the quality of the course. 
 The local hands on instructor and coordinator for the Oslo group will be [Jakob Nilsson,](http://archive.fabacademy.org/archives/2017/fablabverket/students/100/) who took Fab Academy this year, loved it and is very excited to help make next years students succeed.
@@ -25,3 +19,13 @@ Further reading in the [Fab Academy Course handbook](http://docs.academany.org/F
 The Fab Academy [tuition fee](http://fabacademy.org/application-form/cost-breakdown-structure/) is comprised by Central Costs and Local Costs. Central Costs are fixed at 2500€ and we are currently investigating if we need to charge more than 2500€ to cover the local costs of hosting Fab Academy in Oslo. We are committed to giving the students a world class level Fab Academy experience and want to make sure we have the resources to do so.
 
 Applications for Fab Academy 2018 in Oslo will open 1 september 2017. A link will appear here!
+
+# More information about Fab Academy
+[Teaser video for Fab Academy 2015](https://vimeo.com/111864398)
+
+[Interview with a Fab Academy student who made a home brewing monitor](https://vimeo.com/109169527)
+
+[Interview with a Fab Academy student who made a synthesizer](https://vimeo.com/109169526)
+
+[<img src="images/claudia_cnc.jpg">](http://makezine.com/2015/04/30/make-something-big-at-fab-academy/)
+
