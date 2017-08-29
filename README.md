@@ -1,5 +1,7 @@
 ![Fab Academy Logo](logos/3229392_300x300.jpg)
 # What is Fab Academy
+An awesome 5 month course where you learn how to make almost anything
+
 * [Teaser video for Fab Academy 2015](https://vimeo.com/111864398)
 * [Interview with a Fab Academy student who made a home brewing monitor](https://vimeo.com/109169527)
 * [Interview with a Fab Academy student who made a synthesizer](https://vimeo.com/109169526)
