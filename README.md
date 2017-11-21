@@ -12,6 +12,8 @@ An awesome 5 month course where you learn how to make almost anything
 # Taking Fab Academy in Oslo 2018
 The international course [Fab Academy 2018](http://fabacademy.org/) will be hosted in Oslo at Fab Lab [Fellesverkstedet](http://www.fellesverkstedet.no/) [(github)](https://github.com/fellesverkstedet) from February to end of July next year. 
 
+[Here is link to a presentation about the course in Oslo](https://docs.google.com/presentation/d/1fOQa_VqbehmpVGOxCrXS4RunA4Gwol_Z0BbzzOylldE/edit?usp=sharing)
+
 Ten students will be able to participate in an international intensive course in "how to make almost anything" using digital fabrication techniques such as 3D printing, microelectronics design, production and programming, large scale CNC-milling, laser cutting, moulding and casting, composites and more. Sounds interesting?
 
 Weekly lectures will be held by video conference by professor [Niel Gershenfeld](https://en.wikipedia.org/wiki/Neil_Gershenfeld) who initiated the Fab Lab network as part of an outreach program at Bostons MIT. 
