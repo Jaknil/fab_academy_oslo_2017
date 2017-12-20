@@ -42,6 +42,6 @@ DEADLINE FOR APPLICATION SUBMISSIONS IS DECEMBER 25TH 2017
 
 Questions?: Contact Jakob Nilsson on Jakob.A.Nilsson@gmail.com
 
-[class](./images/fab_academy_molding_and_casting.png)
+![class](./images/fab_academy_molding_and_casting.png)
 *Students from all over the world follow video conference classes in their local fab labs*
 
