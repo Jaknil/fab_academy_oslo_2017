@@ -1,6 +1,7 @@
 ![Fab Academy Logo](logos/3229392_300x300.jpg)
 # What is Fab Academy
 An awesome 5 month course where you learn how to make almost anything
+Applications for Fab Academy 2018 in Oslo are OPEN!  [APPLY HERE](https://form.jotformeu.com/71832813940356)
 
 * [Teaser video for Fab Academy 2015](https://vimeo.com/111864398)
 * [Interview with a Fab Academy student who made a home brewing monitor](https://vimeo.com/109169527)
@@ -9,8 +10,12 @@ An awesome 5 month course where you learn how to make almost anything
  
      [Makezine article about "Make something Big Week" of Fab Academy 2015 at Fab Lab Tecsup in Lima-Petru](http://makezine.com/2015/04/30/make-something-big-at-fab-academy/)
 
+
+[class](./img/fab_academy_molding_and_casting.png)
+*Students from all over the world follow video conference classes in their local fab labs*
+
 # Taking Fab Academy in Oslo 2018
-The international course [Fab Academy 2018](http://fabacademy.org/) will be hosted in Oslo at Fab Lab [Fellesverkstedet](http://www.fellesverkstedet.no/) [(github)](https://github.com/fellesverkstedet) from February to end of July next year. 
+The international course [Fab Academy 2018](http://fabacademy.org/) will be provided by Fab Lab [Fellesverkstedet](http://www.fellesverkstedet.no/) [(github)](https://github.com/fellesverkstedet) and hosted at [bitraf](https://bitraf.no/). The part time course lasts from the end of January to the end of July next year. 
 
 [Here is link to a presentation about the course in Oslo](https://docs.google.com/presentation/d/1fOQa_VqbehmpVGOxCrXS4RunA4Gwol_Z0BbzzOylldE/edit?usp=sharing)
 
