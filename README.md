@@ -38,7 +38,7 @@ Further reading in the [Fab Academy Course handbook](http://docs.academany.org/F
 
 Applications for Fab Academy 2018 in Oslo are OPEN!  [APPLY HERE](https://form.jotformeu.com/71832813940356)
 
-DEADLINE FOR APPLICATION SUBMISSIONS IS DECEMBER 25TH 2017
+DEADLINE FOR APPLICATION SUBMISSIONS IS EXTENDED TO JANUARY 7TH 2018
 
 Questions?: Contact Jakob Nilsson on Jakob.A.Nilsson@gmail.com
 
