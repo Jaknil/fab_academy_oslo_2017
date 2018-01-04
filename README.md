@@ -13,7 +13,7 @@ An awesome 5 month course where you learn how to make almost anything. Applicati
 ![Banner](images/banner.png)
 	
 # Taking Fab Academy in Oslo 2018
-The international course [Fab Academy 2018](http://fabacademy.org/) will be provided by Fab Lab [Fellesverkstedet](http://www.fellesverkstedet.no/) [(github)](https://github.com/fellesverkstedet) and hosted at [bitraf](https://bitraf.no/). The part time course lasts from the end of January to the end of July next year. 
+The international course [Fab Academy 2018](http://fabacademy.org/) will be provided by Fab Lab [Fellesverkstedet](http://www.fellesverkstedet.no/) [(github)](https://github.com/fellesverkstedet) and hosted at [bitraf](https://bitraf.no/). The  course lasts from the 17th of January to the end of July. 
 
 [Here is link to a presentation about the course in Oslo](https://docs.google.com/presentation/d/1fOQa_VqbehmpVGOxCrXS4RunA4Gwol_Z0BbzzOylldE/edit?usp=sharing)
 
@@ -38,7 +38,8 @@ Further reading in the [Fab Academy Course handbook](http://docs.academany.org/F
 
 Applications for Fab Academy 2018 in Oslo are OPEN!  [APPLY HERE](https://form.jotformeu.com/71832813940356)
 
-DEADLINE FOR APPLICATION SUBMISSIONS IS EXTENDED TO JANUARY 7TH 2018
+DEADLINE FOR APPLICATION SUBMISSIONS IS EXTENDED TO JANUARY 7TH
+THE COURSE STARTS on the 17TH OF JANUARY.
 
 Questions?: Contact Jakob Nilsson on Jakob.A.Nilsson@gmail.com
 
