@@ -1,6 +1,6 @@
 ![Fab Academy Logo](logos/3229392_300x300.jpg)
 # What is Fab Academy
-An awesome 5 month course where you learn how to make almost anything. Applications for Fab Academy 2018 in Oslo are [open here](https://form.jotformeu.com/71832813940356)
+An awesome 5 month course where you learn how to make almost anything. 
 
 * [Teaser video for Fab Academy 2015](https://vimeo.com/111864398)
 * [Interview with a Fab Academy student who made a home brewing monitor](https://vimeo.com/109169527)
@@ -12,37 +12,21 @@ An awesome 5 month course where you learn how to make almost anything. Applicati
 
 ![Banner](images/banner.png)
 	
-# Taking Fab Academy in Oslo 2018
-The international course [Fab Academy 2018](http://fabacademy.org/) will be provided by Fab Lab [Fellesverkstedet](http://www.fellesverkstedet.no/) [(github)](https://github.com/fellesverkstedet) and hosted at [bitraf](https://bitraf.no/). The  course lasts from the 17th of January to the end of July. 
+# Taking Fab Academy in Oslo
+We are working towards making it possivle to take part in the international course [Fab Academy](http://fabacademy.org/) at the fantastic Fab Lab [Fellesverkstedet](http://www.fellesverkstedet.no/) in Oslo. [(github)](https://github.com/fellesverkstedet) Possibly in collaboration with  [bitraf](https://bitraf.no/) which is Norways biggest makerspace! 
 
-[Here is link to a presentation about the course in Oslo](https://docs.google.com/presentation/d/1fOQa_VqbehmpVGOxCrXS4RunA4Gwol_Z0BbzzOylldE/edit?usp=sharing)
-
-Ten students will be able to participate in an international intensive course in "how to make almost anything" using digital fabrication techniques such as 3D printing, microelectronics design, production and programming, large scale CNC-milling, laser cutting, moulding and casting, composites and more. Sounds interesting?
-
-Weekly lectures will be held by video conference by professor [Niel Gershenfeld](https://en.wikipedia.org/wiki/Neil_Gershenfeld) who initiated the Fab Lab network as part of an outreach program at Bostons MIT. 
-The students will have 24/7 access to the workshop and equpiment at [Bitraf](bitraf.no), Norways biggest makerspace!  Supplies and tutoring are provided by [Fellesvekstedet.](https://www.facebook.com/fellesverkstedet/) 
-The local hands on instructor and coordinator for the Oslo group will be [Jakob Nilsson,](http://archive.fabacademy.org/archives/2017/fablabverket/students/100/) who took Fab Academy this year, loved it and is very excited to help make next years students succeed.
-The local Mentor will be Jens Dyvik, known for his [fabricateable machines initiative](https://github.com/fellesverkstedet/fabricatable-machines) and his two year round the world trip to many Fab Labs called [Making, Living, Sharing.](https://drive.google.com/drive/folders/0B8t_s65R-GJNT0k1VGt3YkFrbWM) He has vowed to make it possible for the students to do Fab Academy with machines that are fabricated in the lab, thus realising the dream of Fab Labs making Fab Labs.
-The remote Mentor will be Ohadino Haad who is Director of Academic Research & Development at [Stratasys](http://www.stratasys.com/) and tirelessly mentored Norways first class of Fab Academy this year.
+We are aiming for that ten students per year will be able to participate in an international intensive course that lets'you learn how to make almost anything using digital fabrication techniques such as 3D printing, microelectronics design, production and programming, large scale CNC-milling, laser cutting, moulding and casting, composites and more. Sounds interesting?
 
 The course is fast paced with a new concept introduced each week, the work is largely self guided and documentet online for evaluation and sharing with the other students. The course finishes with a final project there each student demonstrate integration of the many skills they have learned on the way. 
 The course is highly adaptable to the students existing skill level and the their own ideas. Already skilled makers are able to challange themselves to grow and beginners will have great help from studying the examples provided by their previous and current class mates which number in the hundreds each year. 
 It will not be possible to take Fab Academy at the same time as holding up a full time job. The time commitment is about 20 hours a week at minimum, but could be far greater if the student is highly motivated, does not possess the background for a particular unit (or units) or just wants to really throw themselves into the program.
 
-The Fab Academy [tuition fee](http://fabacademy.org/application-form/cost-breakdown-structure/) is comprised by Central Costs and Local Costs. The central Costs are 2500€ and the local costs are 4500€. We are committed to giving the students a world class level Fab Academy experience and the fees are set to make that possible.
-
+The Fab Academy [tuition fee](http://fabacademy.org/application-form/cost-breakdown-structure/) is comprised by Central Costs and Local Costs. The local costs for coming years are not yet established. 
 Further reading in the [Fab Academy Course handbook](http://docs.academany.org/FabAcademy-Handbook/_book/basic_fab_academy_course_info.html)
 
-[Offical press release](https://github.com/Academany/academany-mkt/blob/master/fabacademy2017/press/press_en.md)
+[Offical press release for the 2018 class](https://github.com/Academany/academany-mkt/blob/master/fabacademy2017/press/press_en.md)
 
-
-Applications for Fab Academy 2018 in Oslo are OPEN!  [APPLY HERE](https://form.jotformeu.com/71832813940356)
-
-DEADLINE FOR APPLICATION SUBMISSIONS IS EXTENDED TO JANUARY 7TH
-THE COURSE STARTS on the 17TH OF JANUARY.
-
-Questions?: Contact Jakob Nilsson on Jakob.A.Nilsson@gmail.com
+Questions?: Contact Jakob Nilsson on Jakob.A.Nilsson@gmail.com who took Fab Academy in [Fab Lab Verket](https://verketfablab.no/) in Moss 2016 [2016 Student page](http://archive.fabacademy.org/archives/2017/fablabverket/students/100/)
 
 ![class](./images/fab_academy_molding_and_casting.png)
 *Students from all over the world follow video conference classes in their local fab labs*
-
