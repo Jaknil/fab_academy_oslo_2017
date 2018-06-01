@@ -26,7 +26,7 @@ Further reading in the [Fab Academy Course handbook](http://docs.academany.org/F
 
 [Offical press release for the 2018 class](https://github.com/Academany/academany-mkt/blob/master/fabacademy2017/press/press_en.md)
 
-Questions?: Contact Jakob Nilsson on Jakob.A.Nilsson@gmail.com [2016 Fab Academy Student page](http://archive.fabacademy.org/archives/2017/fablabverket/students/100/)
+Questions?: Contact Jakob Nilsson on Jakob.A.Nilsson@gmail.com or check out his [2016 Fab Academy Student page](http://archive.fabacademy.org/archives/2017/fablabverket/students/100/)
 
 ![class](./images/fab_academy_molding_and_casting.png)
 *Students from all over the world follow video conference classes in their local fab labs*
